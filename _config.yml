@@ -16,7 +16,7 @@
 name: kimihito
 bio: An Indie Developer who loves some web services.
 
-picture: /assets/images/profile2.jpg
+picture: assets/images/profile2.jpg
 
 description: >- # this means to ignore newlines until "baseurl:"
   kimihito's profile page
